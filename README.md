@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="assets/hero/hero.jpg"
+     width="100%"
+     alt="Biomedical & Health Informatics Lab">
+
+</div>
+
+<div align="center">
+
 # 🧬 Biomedical & Health Informatics Lab
 
 ### **Health × Computer Science × Data × AI × Research**
@@ -8,11 +16,11 @@
 
 <br>
 
-![Research](https://img.shields.io/badge/Research-Interdisciplinary-6A5ACD?style=for-the-badge\&logo=academia\&logoColor=white)
-![Health Informatics](https://img.shields.io/badge/Health-Informatics-00A6A6?style=for-the-badge\&logo=medrxiv\&logoColor=white)
-![Computer Science](https://img.shields.io/badge/Computer-Science-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-FF6F00?style=for-the-badge\&logo=openai\&logoColor=white)
-![Responsible AI](https://img.shields.io/badge/Responsible-AI-7B61FF?style=for-the-badge\&logo=shield\&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Interdisciplinary-6A5ACD?style=for-the-badge&logo=academia&logoColor=white)
+![Health Informatics](https://img.shields.io/badge/Health-Informatics-00A6A6?style=for-the-badge&logo=medrxiv&logoColor=white)
+![Computer Science](https://img.shields.io/badge/Computer-Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Responsible AI](https://img.shields.io/badge/Responsible-AI-7B61FF?style=for-the-badge&logo=shield&logoColor=white)
 
 <br>
 
