@@ -42,7 +42,7 @@
 </div>
 
 ---
- هذا الجزء بدي نفسس العمل بالحرف كيف بيصير الكود
+ 
 # 🧭 Navigation
 
 | 🔬 Research          | 💻 Technical     | 🏥 Health              | 🤖 AI            | 🛡️ Governance  |
