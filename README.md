@@ -43,6 +43,11 @@
 
 ---
  
+<p align="center">
+  <img src="assets/hero/hero.jpg" width="100%" alt="Biomedical & Health Informatics Lab">
+</p>
+
+---
  
 # 🧭 Navigation
 
