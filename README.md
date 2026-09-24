@@ -1,27 +1,10 @@
-<div align="center">
-
-# 🧬 Biomedical & Health Informatics Lab
-
-### **Health × Computer Science × Data × AI × Research**
-
-**An interdisciplinary research laboratory at the intersection of health sciences, computer science, data, artificial intelligence, digital health, and responsible technology.**
-
-<br>
-
-![Research](https://img.shields.io/badge/Research-Interdisciplinary-6A5ACD?style=for-the-badge\&logo=academia\&logoColor=white)
-![Health Informatics](https://img.shields.io/badge/Health-Informatics-00A6A6?style=for-the-badge\&logo=medrxiv\&logoColor=white)
-![Computer Science](https://img.shields.io/badge/Computer-Science-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-FF6F00?style=for-the-badge\&logo=openai\&logoColor=white)
-![Responsible AI](https://img.shields.io/badge/Responsible-AI-7B61FF?style=for-the-badge\&logo=shield\&logoColor=white)
-
-<br>
-
-![Status](https://img.shields.io/badge/Lab%20Status-Foundational%20Development-F2C94C?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Health%20×%20CS%20×%20Data%20×%20AI-0F766E?style=flat-square)
-![Research](https://img.shields.io/badge/Approach-Reproducible%20%7C%20Evidence--Based-2563EB?style=flat-square)
-![Data](https://img.shields.io/badge/Data-Public%20%7C%20Synthetic%20%7C%20Authorized-059669?style=flat-square)
-
-</div>
+<p align="center">
+  <img
+    src="assets/hero/lab.png"
+    alt="Biomedical & Health Informatics Lab"
+    width="100%"
+  />
+</p>
 
 ---
 
@@ -42,16 +25,8 @@
 </div>
 
 ---
- 
-<p align="center">
-  <img 
-    src="assets/hero/hero.jpg" 
-    alt="Biomedical & Health Informatics Lab"
-    width="100%"
-  />
-</p>
 
- 
+
 # 🧭 Navigation
 
 | 🔬 Research          | 💻 Technical     | 🏥 Health              | 🤖 AI            | 🛡️ Governance  |
