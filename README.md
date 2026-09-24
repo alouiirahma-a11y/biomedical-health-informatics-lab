@@ -44,10 +44,13 @@
 ---
  
 <p align="center">
-  <img src="assets/hero/hero.jpg" width="100%" alt="Biomedical & Health Informatics Lab">
+  <img 
+    src="assets/hero/hero.jpg" 
+    alt="Biomedical & Health Informatics Lab"
+    width="100%"
+  />
 </p>
 
----
  
 # 🧭 Navigation
 
