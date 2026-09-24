@@ -1,452 +1,1116 @@
-# 🧬 BIOMEDICAL & HEALTH INFORMATICS LAB
+<div align="center">
 
-### **Health × Data × Computer Science × AI**
+# 🧬 Biomedical & Health Informatics Lab
 
-> An interdisciplinary research lab exploring the intersection of biomedical and health sciences, population health, health informatics, computational methods, artificial intelligence, and responsible digital health.
+### **Health × Computer Science × Data × AI × Research**
+
+**An interdisciplinary research laboratory at the intersection of health sciences, computer science, data, artificial intelligence, digital health, and responsible technology.**
+
+<br>
+
+![Research](https://img.shields.io/badge/Research-Interdisciplinary-6A5ACD?style=for-the-badge\&logo=academia\&logoColor=white)
+![Health Informatics](https://img.shields.io/badge/Health-Informatics-00A6A6?style=for-the-badge\&logo=medrxiv\&logoColor=white)
+![Computer Science](https://img.shields.io/badge/Computer-Science-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-FF6F00?style=for-the-badge\&logo=openai\&logoColor=white)
+![Responsible AI](https://img.shields.io/badge/Responsible-AI-7B61FF?style=for-the-badge\&logo=shield\&logoColor=white)
+
+<br>
+
+![Status](https://img.shields.io/badge/Lab%20Status-Foundational%20Development-F2C94C?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Health%20×%20CS%20×%20Data%20×%20AI-0F766E?style=flat-square)
+![Research](https://img.shields.io/badge/Approach-Reproducible%20%7C%20Evidence--Based-2563EB?style=flat-square)
+![Data](https://img.shields.io/badge/Data-Public%20%7C%20Synthetic%20%7C%20Authorized-059669?style=flat-square)
+
+</div>
 
 ---
 
-## 🔬 Research Vision
+<div align="center">
 
-This laboratory is a structured learning and research space connecting **health sciences** with **computer science, data, artificial intelligence, and responsible technology**.
+> 🧬 **Health**
+> ↓
+> 💻 **Computer Science**
+> ↓
+> 📊 **Data & Statistics**
+> ↓
+> 🤖 **Artificial Intelligence**
+> ↓
+> 🛡️ **Responsible & Trustworthy AI**
+> ↓
+> 🔬 **Independent Research**
 
-The goal is to progressively investigate how computational methods can support:
+</div>
 
-* 🧬 Biomedical and health sciences
-* 🌍 Population health and epidemiology
-* 🏥 Health systems and digital transformation
-* 📊 Health data and statistical analysis
-* 💻 Computer science and computational methods
+---
+
+# 🧭 Navigation
+
+| 🔬 Research          | 💻 Technical     | 🏥 Health              | 🤖 AI            | 🛡️ Governance  |
+| -------------------- | ---------------- | ---------------------- | ---------------- | --------------- |
+| Research Methods     | Computer Science | Biomedical Foundations | Machine Learning | Responsible AI  |
+| Scientific Computing | Data Engineering | Public Health          | Generative AI    | Privacy         |
+| Independent Research | Databases        | Epidemiology           | Biomedical AI    | Security        |
+| Reproducibility      | Interoperability | Digital Health         | AI Evaluation    | Data Governance |
+
+---
+
+# 🔬 Research Vision
+
+The **Biomedical & Health Informatics Lab** is an independent research and learning laboratory designed to build advanced interdisciplinary competence at the intersection of:
+
+<div align="center">
+
+### 🧬 Health Sciences
+
+### ×
+
+### 💻 Computer Science
+
+### ×
+
+### 📊 Data & Informatics
+
+### ×
+
+### 🤖 Artificial Intelligence
+
+### ×
+
+### 🔬 Research
+
+### ×
+
+### ⚖️ Governance
+
+</div>
+
+The laboratory is structured around the knowledge architecture required for modern biomedical and health informatics research and practice.
+
+Its curriculum is informed by:
+
+* 🧬 Biomedical and health informatics graduate education
+* 🌍 Public health informatics
+* 💻 Computer science
+* 📊 Data science and biostatistics
+* 🌐 Digital health
 * 🤖 Artificial intelligence and machine learning
-* 🛡️ Responsible and trustworthy health AI
-* 🔎 Scientific research and reproducibility
+* 🏥 Health information systems
+* 🔗 Interoperability
+* 🔐 Health data governance
+* 🛡️ Responsible and trustworthy AI
+* 🔬 Reproducible research
+
+The laboratory combines:
+
+> **Academic preparation + Technical skill development + Research methodology + Portfolio-oriented implementation**
 
 ---
 
-# 🗺️ RESEARCH MAP
+# 🎓 Graduate-Level Alignment
 
-```mermaid
-flowchart TD
-    A["🧬 HEALTH SCIENCES"]
+The laboratory is designed to provide preparation across the major competency areas represented in advanced **Biomedical and Health Informatics** graduate programs.
 
-    A --> B["🌍 POPULATION HEALTH"]
-    A --> C["🦠 DISEASES & EPIDEMIOLOGY"]
-    A --> D["🏥 HEALTH SYSTEMS"]
+In particular, its architecture incorporates subject areas represented in the **Mahidol University Master of Science Program in Biomedical and Health Informatics**, including:
 
-    B --> E["📱 HEALTH TECHNOLOGIES"]
-    C --> E
-    D --> E
+| Domain | Core Competency                                    |
+| ------ | -------------------------------------------------- |
+| 🌍     | Public Health Informatics                          |
+| 🧠     | Organizational Behavior & Management               |
+| 🦠     | Disease Surveillance & Public Health Investigation |
+| ⚖️     | Legal & Ethical Issues in Health Informatics       |
+| 📊     | Statistics in Health Science                       |
+| 🏥     | Health Informatics Challenges                      |
+| 🏗️    | Health Information System Design & Implementation  |
+| 🔬     | Research Methods in Health Informatics             |
+| 🤖     | Data Mining & Machine Learning                     |
+| 📐     | Mathematical & Economic Modeling                   |
+| 🩺     | Health & Medical Terminology                       |
+| 📈     | Data Visualization                                 |
+| 💻     | IT Systems in Healthcare                           |
+| 🗺️    | GIS in Epidemiology                                |
+| 🗄️    | Data Management                                    |
+| 🌐     | Web & Mobile Application Development               |
+| 📡     | Emerging Health Data Sources                       |
+| 🧠     | Artificial Intelligence in Healthcare              |
+| 🧪     | Biomedical & Health Informatics Research           |
 
-    E --> F["📊 HEALTH DATA"]
-
-    F --> G["💻 COMPUTER SCIENCE"]
-
-    G --> H["🤖 AI & MACHINE LEARNING"]
-
-    H --> I["🛡️ RESPONSIBLE & TRUSTWORTHY AI"]
-
-    I --> J["🔎 RESEARCH"]
-
-    J --> K["🚀 PROJECTS"]
-
-    style A fill:#eef7ff,stroke:#1d4ed8
-    style F fill:#eefcf9,stroke:#0f766e
-    style G fill:#f4f4f5,stroke:#334155
-    style H fill:#eef7ff,stroke:#2563eb
-    style I fill:#f0fdf4,stroke:#15803d
-    style J fill:#faf5ff,stroke:#7e22ce
-    style K fill:#fff7ed,stroke:#c2410c
-```
+The laboratory extends this academic foundation with additional **computer-science, data-engineering, interoperability, AI-evaluation, governance, and research-engineering competencies**.
 
 ---
 
-# 🧭 RESEARCH DOMAINS
+# 🧭 THE LABORATORY CURRICULUM
 
-## 01 · 🧬 Health Sciences
+## 🧬 01 — HEALTH & BIOMEDICAL FOUNDATIONS
 
-Foundational knowledge in:
+### Core Knowledge
 
-* Anatomy
-* Physiology
-* Health promotion
-* Disease prevention
-* Public health
-* Maternal and child health
-* Aging and healthy longevity
-* Health education
+* Human anatomy and physiology
+* Pathophysiology
+* Basic biomedical sciences
+* Medical terminology
+* Disease classification
+* Clinical concepts
 * Population health
+* Health promotion
+* Prevention
+* Healthcare delivery
 
-[→ Explore Health Sciences](./01-health-sciences/)
+### Advanced Topics
+
+* Clinical workflows
+* Biomedical data types
+* Phenotypes
+* Biomarkers
+* Disease trajectories
+* Clinical research concepts
+* Translational research
+* Precision health
+
+### 🎯 Technical Output
+
+> Ability to translate a health problem into a computationally analyzable research problem.
 
 ---
 
-## 02 · 🌍 Population Health
+# 🌍 02 — PUBLIC HEALTH INFORMATICS
 
-Understanding health at the population level through:
+### Core Knowledge
 
-* Epidemiology
-* Disease surveillance
-* Prevention
+* Public health systems
+* Population health
+* Surveillance
 * Health promotion
-* Health inequalities
-* Population-level data
-* Global health
+* Prevention
+* Public health reporting
+* Health information systems
 * Public health intelligence
 
-[→ Explore Population Health](./02-population-health/)
+### Advanced Topics
+
+* Disease surveillance architectures
+* Outbreak intelligence
+* Population-level analytics
+* Public health dashboards
+* Health threat detection
+* One Health intelligence
+
+### 🔬 Research Perspective
+
+**Detect → Verify → Analyse → Assess → Communicate**
 
 ---
 
-## 03 · 🦠 Diseases & Epidemiology
+# 🦠 03 — EPIDEMIOLOGY & DISEASE SURVEILLANCE
 
-A structured knowledge base covering major disease areas:
+### Core Knowledge
 
-* Infectious diseases
-* Antimicrobial resistance
-* Cancer
-* Cardiovascular diseases
-* Diabetes
-* Respiratory diseases
-* Neurological diseases
-* Mental health
-* Chronic diseases
+* Incidence
+* Prevalence
+* Risk
+* Odds
+* Relative risk
+* Epidemiological study designs
+* Bias
+* Confounding
+* Screening
+* Diagnostic testing
 
-Each topic will progressively connect:
+### Computational Epidemiology
 
-**Biology → Epidemiology → Prevention → Data → Technology → AI → Ethics → Research**
+* Surveillance pipelines
+* Time-series analysis
+* Spatial epidemiology
+* Outbreak modeling
+* Risk prediction
+* Geospatial analysis
+* Epidemiological simulation
 
-[→ Explore Diseases & Epidemiology](./03-diseases-epidemiology/)
+### 🧪 Research Output
 
----
-
-## 04 · 🏥 Health Systems
-
-Exploring how health services and information systems operate:
-
-* Primary healthcare
-* Hospitals
-* Electronic Health Records
-* Hospital Information Systems
-* Health Information Systems
-* Clinical workflows
-* Interoperability
-* HL7 / FHIR
-* Health Information Exchange
-* Digital transformation
-
-[→ Explore Health Systems](./04-health-systems/)
+> A complete reproducible epidemiological analysis using real or synthetic public data.
 
 ---
 
-## 05 · 📱 Digital & Biomedical Technologies
+# 📊 04 — BIOSTATISTICS & MATHEMATICS FOR HEALTH DATA
 
-Technology applied to health and biomedical environments:
+### 📐 Mathematics
 
-* Digital health
-* Telemedicine
-* mHealth
-* Wearable technologies
-* Remote monitoring
-* Medical devices
-* Medical imaging
-* Biomedical robotics
-* Digital therapeutics
-* Edge AI
-* Digital twins
-* Neurotechnology
-
-[→ Explore Health Technologies](./05-health-technologies/)
-
----
-
-## 06 · 📊 Health Data & Statistics
-
-Building the quantitative foundation required for health informatics:
-
-* Data literacy
-* Descriptive statistics
+* Algebra
+* Functions
+* Logarithms
+* Exponents
+* Calculus foundations
+* Linear algebra
 * Probability
-* Epidemiological data
-* Data cleaning
-* Databases
-* SQL
-* Python
-* NumPy
-* pandas
-* Data visualization
-* Synthetic data
-* Health data quality
+* Discrete mathematics
+* Optimization
 
-[→ Explore Health Data](./06-health-data/)
+### 📈 Statistics
+
+* Descriptive statistics
+* Probability distributions
+* Sampling
+* Confidence intervals
+* Hypothesis testing
+* Correlation
+* Regression
+* ANOVA
+* Non-parametric methods
+* Survival analysis
+* Bayesian foundations
+
+### 🔬 Advanced
+
+* Multivariable regression
+* Generalized linear models
+* Longitudinal data
+* Missing data
+* Causal inference
+* Statistical learning
+* Experimental design
 
 ---
 
-## 07 · 💻 Computer Science
+# 💻 05 — COMPUTER SCIENCE FOUNDATIONS
 
-Developing computational foundations:
+> **Computer science is not treated as a superficial programming tool. It is a scientific foundation.**
 
-* Python programming
-* Computational thinking
+### 👩‍💻 Programming
+
+`Python` · `SQL` · `R` · `JavaScript / TypeScript` · `Bash`
+
+### 🧠 Computer Science
+
 * Algorithms
 * Data structures
-* Databases
+* Computational complexity
+* Object-oriented programming
+* Functional concepts
 * Software engineering
 * Version control
-* Git & GitHub
 * Testing
-* Problem solving
+* Debugging
+* APIs
+* Networking fundamentals
+* Operating systems fundamentals
 
-[→ Explore Computer Science](./07-computer-science/)
+### 🎯 Research-Level Goal
+
+> Understand not only **how to use software**, but why computational methods work and how to design reliable computational systems.
 
 ---
 
-## 08 · 🤖 AI & Machine Learning
+# 🗄️ 06 — HEALTH DATA ENGINEERING & DATABASES
 
-Exploring computational intelligence for health applications:
+### Database Fundamentals
 
-* Machine learning
+* Relational databases
+* SQL
+* Database design
+* Normalization
+* Indexing
+* Transactions
+* Data integrity
+
+### 🏥 Health Data
+
+* Electronic health records
+* Laboratory data
+* Imaging metadata
+* Claims data
+* Registry data
+* Survey data
+* Public health datasets
+* Wearable data
+* Sensor data
+
+### ⚙️ Data Engineering
+
+* ETL / ELT
+* Data pipelines
+* Data validation
+* Data quality
+* Data cleaning
+* Data transformation
+* Metadata
+* Data lineage
+* Data warehouses
+* APIs
+
+### 🚀 Advanced
+
+* Cloud data architecture
+* Distributed data systems
+* Streaming data
+* Data lakes
+* MLOps foundations
+
+---
+
+# 🔗 07 — HEALTH INFORMATION SYSTEMS & INTEROPERABILITY
+
+### 🏥 Systems
+
+* Electronic Health Records
+* Laboratory Information Systems
+* Hospital Information Systems
+* Public Health Information Systems
+* Clinical Decision Support Systems
+
+### 🔗 Interoperability
+
+`HL7` · `FHIR` · `DICOM`
+
+* Clinical terminology
+* Coding systems
+* Data models
+* Ontologies
+* APIs
+
+### 🏗️ Architecture
+
+* System architecture
+* Integration architecture
+* Authentication
+* Authorization
+* Secure data exchange
+* Information flow
+* Interoperability testing
+
+---
+
+# 📈 08 — HEALTH DATA SCIENCE & VISUALIZATION
+
+### 🛠️ Tools
+
+`Python` · `pandas` · `NumPy` · `SciPy` · `R` · `SQL` · `Jupyter`
+
+### 📊 Visualization
+
+* Statistical visualization
+* Interactive dashboards
+* Geospatial visualization
+* Health indicators
+* Epidemiological dashboards
+
+### 🧠 Evidence Communication
+
+Every analysis should answer:
+
+> **What happened?**
+
+> **Why might it have happened?**
+
+> **How certain are we?**
+
+> **What are the limitations?**
+
+> **What decision could the evidence inform?**
+
+---
+
+# 🤖 09 — MACHINE LEARNING & AI FOR HEALTH
+
+### Foundations
+
+* Supervised learning
+* Unsupervised learning
+* Regression
+* Classification
+* Clustering
+* Feature engineering
+* Model selection
+* Cross-validation
+
+### 🧠 Advanced Machine Learning
+
+* Ensemble methods
+* Gradient boosting
+* Neural networks
 * Deep learning
-* Natural language processing
+* Representation learning
+* Time-series modeling
+* NLP
 * Computer vision
-* Time-series analysis
-* Model evaluation
-* Explainable AI
-* AI for healthcare
-* Medical imaging AI
-* Risk prediction
-* Clinical decision support
 
-[→ Explore AI & Machine Learning](./08-ai-machine-learning/)
+### 🏥 Health AI
+
+* Clinical prediction
+* Risk stratification
+* Medical imaging
+* Biomedical NLP
+* Patient monitoring
+* Population health prediction
+* Public health intelligence
+
+### 📐 Model Evaluation
+
+`Sensitivity` · `Specificity` · `Precision` · `Recall` · `F1`
+
+`ROC-AUC` · `PR-AUC` · `Calibration` · `Decision Curves` · `External Validation`
 
 ---
 
-## 09 · 🛡️ Responsible & Trustworthy AI
+# 🧠 10 — GENERATIVE AI & FOUNDATION MODELS FOR HEALTH
 
-Studying the conditions required for safe and responsible deployment of AI in high-stakes health environments:
+### Core Technologies
 
-* Privacy
-* Security
+* Large Language Models
+* Multimodal models
+* Retrieval-Augmented Generation
+* Embeddings
+* Biomedical NLP
+* Medical knowledge systems
+* AI agents
+* Prompt engineering
+* Evaluation
+
+### 🔬 Research Questions
+
+* Hallucination
+* Reliability
 * Bias
-* Fairness
-* Transparency
+* Grounding
+* Privacy
+* Robustness
+* Human oversight
+* Clinical safety
+* Evaluation
+
+> Generative AI is treated as an **object of scientific evaluation**, not simply as a productivity tool.
+
+---
+
+# 🛡️ 11 — RESPONSIBLE & TRUSTWORTHY HEALTH AI
+
+### Core Areas
+
+* AI safety
 * Explainability
+* Interpretability
+* Fairness
+* Bias
+* Robustness
+* Reliability
+* Uncertainty
 * Human oversight
 * Accountability
-* AI safety
-* AI governance
+
+### ⚠️ High-Stakes AI
+
+* Risk assessment
+* Model governance
+* Safety cases
+* Auditability
+* Monitoring
+* Incident reporting
+* Human-in-the-loop systems
+
+### 🔬 Research Question
+
+> **Does a model merely perform well, or can it be appropriately evaluated, governed, monitored, and used within its intended context?**
+
+---
+
+# 🔐 12 — HEALTH DATA GOVERNANCE, PRIVACY & SECURITY
+
+### 🏛️ Governance
+
 * Data governance
+* Data stewardship
+* Data ownership
+* Data access
+* Data quality
+* Data lifecycle
 
-[→ Explore Responsible AI](./09-responsible-ai/)
+### 🔒 Privacy
+
+* Privacy-by-design
+* Data minimization
+* De-identification
+* Pseudonymization
+* Access control
+* Consent
+* Confidentiality
+
+### 🛡️ Security
+
+* Authentication
+* Authorization
+* Encryption
+* Secure APIs
+* Threat modeling
+* Security monitoring
+
+### 🤖 AI Governance
+
+* AI accountability
+* Data provenance
+* Model documentation
+* Risk management
+* Regulatory awareness
+* Algorithmic auditing
 
 ---
 
-# 🔎 RESEARCH
+# 🌐 13 — DIGITAL HEALTH & HEALTH TECHNOLOGY
 
-The laboratory follows a research-oriented workflow:
+### 📱 Technologies
 
-```text
-Question
-   ↓
-Literature Review
-   ↓
-Data & Evidence
-   ↓
-Methods
-   ↓
-Computational Analysis
-   ↓
-Evaluation
-   ↓
-Interpretation
-   ↓
-Responsible AI / Ethics
-   ↓
-Reproducible Research
-```
+* Mobile health
+* Telemedicine
+* Remote monitoring
+* Wearables
+* Digital therapeutics
+* Health education platforms
+* Patient portals
+* Health applications
+* SMS / USSD systems
 
-Research activities may include:
+### ⚙️ Engineering
 
-* Literature reviews
+* Web development
+* Mobile development
+* APIs
+* Backend systems
+* Databases
+* Authentication
+* Cloud deployment
+
+### 📊 Evaluation
+
+* Usability
+* Accessibility
+* Adoption
+* Safety
+* Effectiveness
+* Equity
+* Implementation outcomes
+
+---
+
+# 🗺️ 14 — GIS, SPATIAL HEALTH & ONE HEALTH
+
+### 🗺️ GIS
+
+* Geographic data
+* Spatial statistics
+* Mapping
+* Spatial visualization
+* Geocoding
+* Spatial clustering
+
+### 🌍 Applications
+
+* Disease mapping
+* Environmental exposure
+* Health-service accessibility
+* Resource allocation
+* Outbreak mapping
+
+### 🐾 One Health
+
+* Human health
+* Animal health
+* Environmental health
+* Antimicrobial resistance
+* Zoonoses
+* Climate-health relationships
+
+---
+
+# 🔬 15 — RESEARCH METHODS & SCIENTIFIC COMPUTING
+
+### 📚 Research Foundations
+
 * Research questions
-* Scientific reading
-* Data analysis
-* Computational experiments
-* Research notebooks
-* Reproducible workflows
+* Literature review
+* Study design
+* Hypothesis formulation
+* Protocol development
+* Sampling
+* Measurement
+* Statistical analysis
+
+### 💻 Computational Research
+
+* Reproducible notebooks
+* Git
+* Version control
+* Experiment tracking
+* Data provenance
+* Computational pipelines
+* Automated testing
+
+### 📝 Scientific Communication
+
 * Scientific writing
-* Evidence synthesis
-
-[→ Explore Research](./10-research/)
-
----
-
-# 🚀 PROJECTS
-
-The laboratory will progressively develop research and technical projects.
-
-### 01 · Public Health Data Intelligence
-
-Exploring how statistical and computational methods can transform population-level health data into interpretable evidence.
-
-**Focus:**
-`Public Health × Statistics × Python × Data Visualization`
+* Literature synthesis
+* Figures
+* Tables
+* Posters
+* Research presentations
+* Systematic documentation
 
 ---
 
-### 02 · Health Machine Learning
+# 🧪 16 — THESIS & INDEPENDENT RESEARCH
 
-Experimental machine-learning workflows using public or synthetic health datasets.
-
-**Focus:**
-`Health Data × Machine Learning × Evaluation`
-
----
-
-### 03 · Synthetic Health Information System
-
-A safe experimental health-information environment based exclusively on synthetic or public data.
-
-**Focus:**
-`Health Systems × Databases × Interoperability × Software`
-
----
-
-### 04 · Responsible Health AI
-
-A research project examining governance, transparency, privacy, accountability, and human oversight in AI-enabled health systems.
-
-**Focus:**
-`AI × Health × Ethics × Governance`
-
-[→ Explore Projects](./11-projects/)
-
----
-
-# 📚 EVIDENCE & LEARNING
-
-This section documents the development of knowledge and technical capabilities.
-
-### Academic Foundations
-
-* Health Sciences
-* Population Health
-* Computer Science
-* Statistics
-* Health Informatics
-
-### Technical Development
-
-* Python
-* Data Analysis
-* SQL
-* Git & GitHub
-* Machine Learning
-* AI
-
-### Research Development
-
-* Scientific literature
-* Research methodology
-* Evidence synthesis
-* Reproducibility
-* Scientific communication
-
-### Learning Status
-
-| Area               | Status         |
-| ------------------ | -------------- |
-| Health Sciences    | ✅ Foundation   |
-| Population Health  | 🔄 Developing  |
-| Computer Science   | 🔄 In Progress |
-| Python             | 🔄 In Progress |
-| Statistics         | 🔄 Developing  |
-| Health Informatics | 🔄 Developing  |
-| SQL                | 📌 Planned     |
-| Machine Learning   | 📌 Planned     |
-| AI for Health      | 📌 Planned     |
-| Responsible AI     | 🔄 Developing  |
-| Research Methods   | 🔄 Developing  |
-
-> **Principle:** This laboratory distinguishes clearly between established knowledge, active learning, planned work, and completed research.
-
-[→ Explore Evidence & Learning](./12-evidence-learning/)
-
----
-
-# 🌐 INTERDISCIPLINARY FRAMEWORK
+The final objective is **independent interdisciplinary research**.
 
 ```text
-                 🧬 HEALTH
-                    │
-        ┌───────────┼───────────┐
-        ↓           ↓           ↓
-   🌍 Population  🦠 Diseases  🏥 Systems
-        │           │           │
-        └───────────┼───────────┘
-                    ↓
-             📱 TECHNOLOGY
-                    ↓
-               📊 DATA
-                    ↓
-             💻 COMPUTER SCIENCE
-                    ↓
-              🤖 ARTIFICIAL
-              INTELLIGENCE
-                    ↓
-            🛡️ RESPONSIBLE AI
-                    ↓
-                 🔎 RESEARCH
-                    ↓
-                🚀 IMPACT
+                    🔬 RESEARCH PROBLEM
+                           │
+                           ▼
+                    📚 LITERATURE REVIEW
+                           │
+                           ▼
+                    ❓ RESEARCH GAP
+                           │
+                           ▼
+                    🎯 RESEARCH QUESTION
+                           │
+                           ▼
+                    🧪 STUDY DESIGN
+                           │
+                           ▼
+                    📊 DATA
+                           │
+                           ▼
+                    💻 COMPUTATIONAL METHOD
+                           │
+                           ▼
+                    📈 EVALUATION
+                           │
+                           ▼
+                    🧠 RESULTS
+                           │
+                           ▼
+                    ⚠️ LIMITATIONS
+                           │
+                           ▼
+                    🛡️ ETHICS & GOVERNANCE
+                           │
+                           ▼
+                    🔬 INTERPRETATION
+                           │
+                           ▼
+                    🔁 REPRODUCIBILITY
+                           │
+                           ▼
+                    📄 RESEARCH OUTPUT
 ```
 
 ---
 
-# 🎯 LONG-TERM RESEARCH DIRECTIONS
+# 🧰 PROFESSIONAL TOOLCHAIN
 
-The laboratory may progressively explore:
+## 👩‍💻 Programming
 
-* AI for public health
-* Health data intelligence
-* Biomedical AI
-* Digital health systems
-* Health information interoperability
-* AI-assisted epidemiology
-* Medical imaging
-* Population-level prediction
-* Synthetic health data
-* Responsible health AI
-* AI governance in high-stakes institutions
-* Global and digital health
-* One Health and computational approaches
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+
+## 📊 Data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+## 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square\&logo=xgboost\&logoColor=white)
+
+## 🏥 Health Data
+
+![HL7](https://img.shields.io/badge/HL7-Health%20Interoperability-0F766E?style=flat-square)
+![FHIR](https://img.shields.io/badge/FHIR-Interoperability-2563EB?style=flat-square)
+![DICOM](https://img.shields.io/badge/DICOM-Medical%20Imaging-7C3AED?style=flat-square)
+
+## ⚙️ Engineering
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-009688?style=flat-square)
+
+## 🔬 Research
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square\&logo=zotero\&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square\&logo=quarto\&logoColor=white)
 
 ---
 
-## 📌 Research Principles
+# 💼 MARKET-RELEVANT PROFESSIONAL SKILLS
 
-**Evidence first.**
-Use scientific literature, public datasets, and reproducible methods.
+The laboratory explicitly develops skills beyond university coursework.
 
-**No unsupported expertise claims.**
-Learning status is documented honestly.
-
-**Privacy by design.**
-No confidential institutional or personal health data is published.
-
-**Responsible AI.**
-Health AI must be examined together with safety, fairness, privacy, transparency, and human oversight.
-
-**Reproducibility.**
-Methods, assumptions, datasets, and computational workflows should be documented whenever possible.
+| Career Direction                  | Core Skills                                                         |
+| --------------------------------- | ------------------------------------------------------------------- |
+| 🏥 **Health Informatics**         | HIS · workflows · interoperability · data management · standards    |
+| 📊 **Health Data Analyst**        | SQL · Python/R · statistics · visualization · dashboards            |
+| 🧠 **Health Data Scientist**      | Python · statistics · ML · feature engineering · evaluation         |
+| 💻 **Digital Health Engineer**    | APIs · databases · web/mobile · cloud · security                    |
+| 🤖 **AI/ML Researcher**           | mathematics · algorithms · ML · DL · experimentation                |
+| 🛡️ **Responsible Health AI**     | AI evaluation · fairness · explainability · robustness · governance |
+| 🌍 **Public Health Intelligence** | epidemiology · surveillance · analytics · GIS · evidence synthesis  |
 
 ---
 
-# 🧬 HEALTH × DATA × COMPUTATION × AI
+# 🧠 COMPETENCY PYRAMID
 
-### Building an interdisciplinary foundation for the future of digital and biomedical health research.
+<div align="center">
+
+```text
+                         ▲
+                         │
+                  🔬 INDEPENDENT
+                     RESEARCH
+                         │
+                  🛡️ HEALTH AI
+                  & GOVERNANCE
+                         │
+                 🤖 MACHINE LEARNING
+                  & DATA SCIENCE
+                         │
+                🏥 HEALTH INFORMATICS
+                 & DIGITAL HEALTH
+                         │
+                  📊 STATISTICS
+                     & DATA
+                         │
+                  💻 COMPUTER
+                     SCIENCE
+                         │
+                  🧬 HEALTH &
+                 BIOMEDICAL
+                  FOUNDATIONS
+                         │
+                         ▼
+```
+
+**Foundations → Computation → Health Informatics → AI → Governance → Research**
+
+</div>
 
 ---
 
-**Status:** Active Learning & Research Laboratory
-**Focus:** Biomedical & Health Informatics
-**Approach:** Evidence → Data → Computation → AI → Responsible Innovation
+# 📚 ACADEMIC → TECHNICAL → RESEARCH
+
+Every domain contains three progressive layers:
+
+### 🅰️ Academic Knowledge
+
+Understand the scientific concepts.
+
+↓
+
+### 🅱️ Technical Competence
+
+Implement the concepts computationally.
+
+↓
+
+### 🅲️ Research Application
+
+Use the competence to investigate a meaningful health problem.
+
+### Example
+
+```text
+📊 Statistics
+      ↓
+🐍 Python / R
+      ↓
+🏥 Health Dataset
+      ↓
+📐 Statistical Model
+      ↓
+✅ Validation
+      ↓
+🧠 Scientific Interpretation
+      ↓
+📄 Research Report
+```
+
+---
+
+# 🧪 PROJECT PORTFOLIO DESIGN
+
+Projects progressively increase in scientific and technical complexity.
+
+### 🟢 LEVEL 1 — FOUNDATIONS
+
+* Python health-data exercises
+* Statistics notebooks
+* SQL exercises
+* Data visualization
+
+### 🔵 LEVEL 2 — APPLIED HEALTH DATA
+
+* Epidemiological analysis
+* Public-health dashboard
+* Health database
+* Disease surveillance notebook
+
+### 🟣 LEVEL 3 — HEALTH INFORMATICS
+
+* FHIR data exploration
+* Health information system prototype
+* Interoperability experiment
+* Health-data pipeline
+
+### 🟠 LEVEL 4 — MACHINE LEARNING
+
+* Disease-risk prediction
+* Population-health classification
+* Time-series forecasting
+* Clinical text classification
+
+### 🔴 LEVEL 5 — ADVANCED AI
+
+* Biomedical NLP
+* Medical-image research
+* Generative AI evaluation
+* RAG for biomedical literature
+
+### 🛡️ LEVEL 6 — RESPONSIBLE HEALTH AI
+
+* Bias audit
+* Explainability study
+* Robustness evaluation
+* Model-card development
+* AI risk assessment
+
+### 🧪 LEVEL 7 — INDEPENDENT RESEARCH
+
+* Literature review
+* Research hypothesis
+* Dataset
+* Methodology
+* Experiment
+* Evaluation
+* Reproducible repository
+* Research paper
+
+---
+
+# 📁 REPOSITORY ARCHITECTURE
+
+```text
+🧬 biomedical-health-informatics-lab/
+│
+├── 🧬 01-health-biomedical-foundations/
+├── 🌍 02-public-health-informatics/
+├── 🦠 03-epidemiology-surveillance/
+├── 📊 04-biostatistics-mathematics/
+├── 💻 05-computer-science/
+├── 🗄️ 06-data-engineering-databases/
+├── 🏥 07-health-information-systems/
+├── 🔗 08-interoperability/
+├── 📈 09-health-data-science/
+├── 🤖 10-machine-learning/
+├── 🧠 11-generative-ai-health/
+├── 🛡️ 12-responsible-health-ai/
+├── 🔐 13-health-data-governance/
+├── 🌐 14-digital-health/
+├── 🗺️ 15-gis-one-health/
+├── 🔬 16-research-methods/
+├── 🧪 17-research-projects/
+│
+├── 📊 datasets/
+├── 📓 notebooks/
+├── 💻 src/
+├── 🧠 models/
+├── ⚙️ pipelines/
+├── 🧪 experiments/
+├── 📈 results/
+├── 🖼️ figures/
+├── 📚 references/
+├── 📖 documentation/
+│
+└── 📄 README.md
+```
+
+---
+
+# 🔬 RESEARCH QUALITY PRINCIPLES
+
+Every research project should address five dimensions:
+
+| Dimension                     | Questions                                                       |
+| ----------------------------- | --------------------------------------------------------------- |
+| 🔬 **Scientific Validity**    | Is the research question clear? Is the methodology appropriate? |
+| 💻 **Computational Validity** | Is the code reproducible, tested, and documented?               |
+| 🏥 **Health Validity**        | Is the health context correctly understood?                     |
+| 🤖 **AI Validity**            | Is the model appropriately evaluated and validated?             |
+| 🛡️ **Ethical Validity**      | Are privacy, governance, safety and human oversight addressed?  |
+
+---
+
+# 🔐 DATA POLICY
+
+> **No confidential institutional data. No patient-identifiable information. No restricted governmental information.**
+
+Research projects should rely on:
+
+* 🌐 Public datasets
+* 📂 Open datasets
+* 🧪 Synthetic datasets
+* 📜 Properly licensed datasets
+* 🔐 Appropriately authorized research data
+
+Sensitive information must remain outside the public repository.
+
+---
+
+# 🌍 RESEARCH FRAMEWORK
+
+<div align="center">
+
+### **DO NOT BEGIN WITH AI. BEGIN WITH THE HEALTH PROBLEM.**
+
+</div>
+
+```text
+🏥 Health Problem
+       ↓
+❓ Scientific Question
+       ↓
+📚 Evidence
+       ↓
+📊 Data
+       ↓
+🔗 Informatics
+       ↓
+💻 Computation
+       ↓
+🤖 AI — when appropriate
+       ↓
+📈 Evaluation
+       ↓
+🛡️ Governance
+       ↓
+🌐 Implementation
+       ↓
+🌍 Impact
+```
+
+---
+
+# 🚀 DEVELOPMENT ROADMAP
+
+### 🟢 PHASE I — COMPUTER SCIENCE FOUNDATIONS
+
+`Python` · `Data Structures` · `Algorithms` · `Git` · `SQL` · `Mathematics`
+
+↓
+
+### 🔵 PHASE II — QUANTITATIVE FOUNDATIONS
+
+`Probability` · `Statistics` · `Linear Algebra` · `Calculus` · `Epidemiology` · `Biostatistics`
+
+↓
+
+### 🟣 PHASE III — HEALTH INFORMATICS
+
+`Health Information Systems` · `Databases` · `FHIR` · `Interoperability` · `Health Data Management`
+
+↓
+
+### 🟠 PHASE IV — DATA SCIENCE
+
+`Data Analysis` · `Visualization` · `Statistical Modeling` · `Machine Learning`
+
+↓
+
+### 🔴 PHASE V — DIGITAL HEALTH
+
+`Digital Health Systems` · `Web/Mobile` · `APIs` · `Health Architecture` · `GIS`
+
+↓
+
+### 🧠 PHASE VI — ADVANCED AI
+
+`Deep Learning` · `NLP` · `Computer Vision` · `Generative AI` · `Biomedical AI`
+
+↓
+
+### 🛡️ PHASE VII — RESPONSIBLE HEALTH AI
+
+`AI Evaluation` · `Governance` · `Privacy` · `Fairness` · `Explainability` · `Safety`
+
+↓
+
+### 🔬 PHASE VIII — INDEPENDENT RESEARCH
+
+`Research Questions` · `Literature Reviews` · `Experiments` · `Scientific Papers` · `Reproducibility`
+
+---
+
+# 🎓 TARGET COMPETENCY
+
+The intended graduate-level profile is not simply:
+
+> ### ❌ “Someone who knows AI.”
+
+It is:
+
+> ### 🧬💻📊🤖🛡️🔬
+>
+> **A health-informed computational researcher capable of understanding health problems, managing and analyzing health data, designing informatics systems, developing and evaluating computational methods, and critically assessing AI within real health-system, ethical, and governance contexts.**
+
+---
+
+# 👩‍🔬 RESEARCHER
+
+<div align="center">
+
+## **Rahma Aloui**
+
+### AI Governance Researcher · Computer Science · Health Sciences
+
+🇹🇳 **Tunisia**
+
+**Biomedical Informatics · Health Informatics · Digital Health · Health Data Science · AI for Health · Responsible AI · Public Health Intelligence · Health Data Governance · One Health · Computational Health Research**
+
+</div>
+
+---
+
+# 📜 DISCLAIMER
+
+This repository is an independent educational and research laboratory.
+
+It does not represent the official position, data, systems, policies, or research of any governmental institution, healthcare organization, university, or other institution.
+
+Research prototypes are not automatically clinical or diagnostic systems and should not be interpreted as medical advice or validated clinical decision-support tools unless explicitly stated and appropriately validated.
+
+---
+
+<div align="center">
+
+# 🧬 HEALTH × DATA × COMPUTER SCIENCE × AI
+
+### **Research • Engineering • Evidence • Responsibility**
+
+<br>
+
+![Foundational Development](https://img.shields.io/badge/🟡%20LAB-FOUNDATIONAL%20DEVELOPMENT-F2C94C?style=for-the-badge)
+
+![Interdisciplinary](https://img.shields.io/badge/🔬-INTERDISCIPLINARY-6A5ACD?style=for-the-badge)
+
+![Reproducible](https://img.shields.io/badge/🔁-REPRODUCIBLE-2563EB?style=for-the-badge)
+
+![Responsible](https://img.shields.io/badge/🛡️-RESPONSIBLE-059669?style=for-the-badge)
+
+</div>
